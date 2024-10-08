@@ -1,0 +1,32 @@
+¿Qué son los Datos Abiertos?
+Son datos digitales de carácter público que son accesibles en línea y pueden ser utilizables, reutilizables y redistribuidos por cualquier interesado, sin la necesidad de contar con un permiso específico (licencia).
+
+¿Qué importancia tiene que la información esté en formato de Datos Abiertos?
+La Información de Interés Nacional que generan las Unidades del Estado, comprendidas entre ellas el Instituto, es un recurso de valor público, que al estar disponible como Datos Abiertos, y mediante su empleo, contribuye a impulsar el crecimiento económico, fortalecer la competitividad y promover la innovación, incrementar la transparencia y rendición de cuentas, así como a generar una mayor eficiencia gubernamental e incrementar la calidad en la prestación de servicios públicos.
+
+¿En qué formato se publican los conjuntos de Datos Abiertos generados por el Instituto?
+Los Conjuntos de Datos estadísticos se publican como archivos estáticos tabulares con formato .csv (Comma-Separated Value) y los Conjuntos de Datos geográficos se publican como archivos con formato .shp (Shapefile).
+
+¿En qué codificación están los Conjuntos de Datos Abiertos de formato .csv? 
+Para los conjuntos de Datos Abiertos generados por el Instituto se utiliza la codificación UTF-8, que es un formato estándar para almacenar caracteres Unicode (estándar de codificación de caracteres universal para la representación de texto para procesamiento del equipo), lo que facilita el intercambio de archivos de texto internacionales.
+
+¿Qué son los Términos de libre uso de la información? 
+Son aquellos que promueven el uso, reuso y redistribución de la información, entre los que se encuentran los conjuntos de datos abiertos, de conformidad con lo estipulado por el Instituto. Pueden consultarse en los términos de uso del INEGI http://www.inegi.org.mx/inegi/terminos.html 
+
+¿Por qué se aprecian caracteres extraños o especiales al abrir el archivo .csv utilizando Excel?
+Los caracteres especiales (como la ñ o acentos) solo se ven afectados en la visualización de archivos .csv en el programa Excel, si se abre de manera directa dando doble clic y no utilizando la opción  “importar datos”.
+
+¿Cómo importar los Datos Abiertos desde el formato Excel para aprovechar la información?
+1.	Seleccionar en menú "Datos" la opción "Desde el texto/CSV", en la ventana que se abre seleccionar el archivo a visualizar y dar Clic en "Importar".
+2.	Se abrirá una ventana con vista previa de los datos, seleccionar en "Origen de archivo" ----> “UTF-8”, en "Delimitador" ----> “Coma” y en "Detección del tipo de datos" ----> “Basado en las primeras 200 filas”, y dar clic en "Cargar"
+3.	El resultado es una hoja en un libro de Excel con el archivo ya importado.
+
+¿En dónde puedo consultar toda la oferta de información en formato de Datos Abiertos generada por el INEGI?
+En la sección “Sistemas de Consulta” en el apartado “Datos Abiertos”
+http://desarrollowww.inegi.org.mx/datosabiertos/ 
+
+¿En dónde puedo consultar los Conjuntos de datos en formato abierto de otras Unidades de Estado?
+Los Conjuntos de datos se deberán publicar en el Sitio de Internet de cada una de las Unidades de Estado, de acuerdo con el calendario que para ello se establezca.
+
+¿Qué documentos metodológicos existen para regular la publicación de Datos Abiertos en nuestro país?
+La Norma Técnica para el acceso y publicación de Datos Abiertos de la Información Estadística y Geográfica de Interés Nacional y el Manual de Implementación para el acceso y publicación de Datos Abiertos de la Información Estadística y Geográfica de Interés Nacional

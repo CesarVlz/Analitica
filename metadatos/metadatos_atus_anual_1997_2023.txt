@@ -1,0 +1,40 @@
+
+identifier: MEX-INEGI.40.302.03-ATUS-1997-2023
+
+title: Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas, 1997-2023 información anual, cifras definitivas 2023.
+
+description: La Estadística de Accidentes de Tránsito Terrestre en Zonas Urbanas y Suburbanas (ATUS), tiene el objetivo de generar información anual sobre la siniestralidad
+del transporte terrestre a nivel nacional, entidad federativa y municipio, mediante el acopio y procesamiento de datos alusivos a los accidentes ocurridos en zonas
+no federales, contribuyendo con ello a la planeación y organización del transporte. Nota: Para el año 2018, se incluyen los municipios en donde la fuente
+informante informó oficialmente a través de un certificado cero el no registro de accidentes viales en su jurisdicción.
+
+Nota: El 19 de agosto de 2024 se actualizó el conjunto de datos abiertos 2023, en atención a una recodificación en las claves de municipios 10 y 100 en los casos que aplicaba.
+
+Derivado de la aplicación de nuevos criterios de validación aplicados a la serie estadística de accidentes de tránsito, le comento que se actualizaron datos
+para Día de la serie 1998-2011 y Día de la semana en donde ocurrió el accidente 1997-2015, para el caso del año 2017 se actualizó el tipo de accidente, además,
+se actualizaron los catálogos de entidad federativa y municipios, por lo que la información tiene el estatus de cifras revisadas.
+Finalmente, le comento que para el año 2018, se integraron 114 registros adicionales, con los cuales las cifras pasan a un estatus de definitivas.
+
+Cobertura geográfica: Estatal y Municipal.
+
+modified: 2024-08-19
+
+publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+mbox: atencion.usuarios@inegi.org.mx
+
+license: https://www.inegi.org.mx/inegi/terminos.html
+
+dataDictionary: https://www.inegi.org.mx/rnm/index.php/catalog/788/data-dictionary
+
+keyword:  "accidentes", "fatal", "no fatal", "sólo daños", "víctimas", "muertos", "heridos"
+
+contactPoint: Mtro. J. Armando Aguiar Rodríguez, 800 111 4634
+
+temporal: 1997-2023
+
+spatial: Estados Unidos Mexicanos
+
+accrualPeriodicity: Anualmente
+
+distribution: https://www.inegi.org.mx/programas/accidentes/
